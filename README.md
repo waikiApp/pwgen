@@ -1,4 +1,4 @@
-# pwgen
+# pwgen :dark_sunglasses:	
 Random password generator using diceware.
 
 ```bash
